@@ -14613,7 +14613,7 @@ MonoBehaviour:
   obj: {fileID: 1986155016}
   objdoor: {fileID: 223264870}
   propcount: 0
-  proptotal: 1
+  proptotal: 10
 --- !u!1001 &1669612877
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16609,7 +16609,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh-195906
+  m_Name: pb_Mesh17986
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
