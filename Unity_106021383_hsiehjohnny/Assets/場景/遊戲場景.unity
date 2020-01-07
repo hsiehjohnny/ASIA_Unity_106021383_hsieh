@@ -1187,8 +1187,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 63.93679, y: 94.417725, z: 70.65647}
-  m_Center: {x: 4.339758, y: 47.208862, z: -0.97778445}
+  m_Size: {x: 77.1757, y: 103.42922, z: 94.845566}
+  m_Center: {x: -2.279689, y: 51.71461, z: -4.3769464}
 --- !u!1001 &111064217
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1285,8 +1285,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 63.93679, y: 94.417725, z: 70.65647}
-  m_Center: {x: 4.339758, y: 47.208862, z: -0.97778445}
+  m_Size: {x: 82.39479, y: 94.417725, z: 96.27347}
+  m_Center: {x: -1.0207248, y: 47.208862, z: -1.2921209}
 --- !u!1001 &113680351
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -4361,8 +4361,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 63.93679, y: 94.417725, z: 70.65647}
-  m_Center: {x: 4.339758, y: 47.208862, z: -0.97778445}
+  m_Size: {x: 89.08295, y: 108.41698, z: 77.58322}
+  m_Center: {x: 5.6642213, y: 54.20849, z: -4.4411674}
 --- !u!1001 &238942100
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -5095,12 +5095,12 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 6fcda7e4766c24545982e70b40498352, type: 3}
-    m_FontSize: 2
+    m_FontSize: 65
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
-    m_MaxSize: 40
-    m_Alignment: 0
+    m_MaxSize: 203
+    m_Alignment: 4
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
@@ -7834,8 +7834,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 63.93679, y: 94.417725, z: 70.65647}
-  m_Center: {x: 4.339758, y: 47.208862, z: -0.97778445}
+  m_Size: {x: 71.4573, y: 103.18567, z: 97.095375}
+  m_Center: {x: 0.579506, y: 51.592834, z: -0.4775314}
 --- !u!1 &670871528
 GameObject:
   m_ObjectHideFlags: 0
@@ -12529,8 +12529,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 63.93679, y: 94.417725, z: 70.65647}
-  m_Center: {x: 4.339758, y: 47.208862, z: -0.97778445}
+  m_Size: {x: 82.99296, y: 119.82187, z: 89.78238}
+  m_Center: {x: -5.1883116, y: 59.910934, z: -0.2720653}
 --- !u!1 &1354061424
 GameObject:
   m_ObjectHideFlags: 0
@@ -13910,8 +13910,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 63.93679, y: 94.417725, z: 70.65647}
-  m_Center: {x: 4.339758, y: 47.208862, z: -0.97778445}
+  m_Size: {x: 84.872475, y: 94.417725, z: 93.1052}
+  m_Center: {x: 4.0565834, y: 47.208862, z: -0.3604262}
 --- !u!4 &1548816112 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2252673723534413265, guid: 584e232800d860841abce764d5e01670,
@@ -14014,8 +14014,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 63.93679, y: 94.417725, z: 70.65647}
-  m_Center: {x: 4.339758, y: 47.208862, z: -0.97778445}
+  m_Size: {x: 71.18471, y: 116.19536, z: 92.17538}
+  m_Center: {x: 0.7158098, y: 58.09768, z: -1.9655818}
 --- !u!1001 &1553719125
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14896,8 +14896,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 63.93679, y: 94.417725, z: 70.65647}
-  m_Center: {x: 4.339758, y: 47.208862, z: -0.97778445}
+  m_Size: {x: 82.929756, y: 114.77437, z: 108.20363}
+  m_Center: {x: 0.6625188, y: 57.387184, z: 0.23067586}
 --- !u!1001 &1697512610
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16341,8 +16341,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 63.93679, y: 94.417725, z: 70.65647}
-  m_Center: {x: 4.339758, y: 47.208862, z: -0.97778445}
+  m_Size: {x: 82.920296, y: 94.417725, z: 89.604614}
+  m_Center: {x: 2.7019877, y: 47.208862, z: -2.1028616}
 --- !u!1001 &1818700667
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16609,7 +16609,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh17986
+  m_Name: pb_Mesh24024
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -17845,7 +17845,7 @@ MonoBehaviour:
       m_Calls: []
   m_FontData:
     m_Font: {fileID: 12800000, guid: 6fcda7e4766c24545982e70b40498352, type: 3}
-    m_FontSize: 112
+    m_FontSize: 100
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 0
@@ -19009,8 +19009,8 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 63.93679, y: 94.417725, z: 70.65647}
-  m_Center: {x: 4.339758, y: 47.208862, z: -0.97778445}
+  m_Size: {x: 78.25069, y: 112.54698, z: 82.30938}
+  m_Center: {x: -2.0716481, y: 56.27349, z: 1.5341396}
 --- !u!1 &2135181480
 GameObject:
   m_ObjectHideFlags: 0
